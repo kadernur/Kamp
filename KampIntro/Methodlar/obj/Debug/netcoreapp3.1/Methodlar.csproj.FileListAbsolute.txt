@@ -1,0 +1,13 @@
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\bin\Debug\netcoreapp3.1\Methodlar.exe
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\bin\Debug\netcoreapp3.1\Methodlar.deps.json
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\bin\Debug\netcoreapp3.1\Methodlar.runtimeconfig.json
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\bin\Debug\netcoreapp3.1\Methodlar.runtimeconfig.dev.json
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\bin\Debug\netcoreapp3.1\Methodlar.dll
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\bin\Debug\netcoreapp3.1\Methodlar.pdb
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\obj\Debug\netcoreapp3.1\Methodlar.csprojAssemblyReference.cache
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\obj\Debug\netcoreapp3.1\Methodlar.AssemblyInfoInputs.cache
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\obj\Debug\netcoreapp3.1\Methodlar.AssemblyInfo.cs
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\obj\Debug\netcoreapp3.1\Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\obj\Debug\netcoreapp3.1\Methodlar.dll
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\obj\Debug\netcoreapp3.1\Methodlar.pdb
+C:\Users\kader tekin\Desktop\Kamp\KampIntro\Methodlar\obj\Debug\netcoreapp3.1\Methodlar.genruntimeconfig.cache
